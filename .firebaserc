@@ -1,9 +1,9 @@
 {
   "targets": {
-    "infinity-skncure-angular-team": {
+    "inku-skincare": {
       "hosting": {
-        "infinity-skncure": [
-          "infinity-skncure-angular-team"
+        "inku-skincare": [
+          "inku-skincare"
         ]
       }
     }

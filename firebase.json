@@ -1,8 +1,8 @@
 {
   "hosting": [
     {
-      "target": "infinity-skncure",
-      "public": "dist/infinity-skncure",
+      "target": "inku-skincare",
+      "public": "dist/inku-skincare",
       "ignore": [
         "**/.*"
       ],
